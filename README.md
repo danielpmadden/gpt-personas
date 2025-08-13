@@ -23,11 +23,11 @@ Key principles in my work include:
 
 Below are case studies for several AI personas I have developed. Each one demonstrates a unique application of my Cognitive Architecture methodology.
 
-**Søren Kierkegaard GPT** | An existential coach designed to guide users through subjective, life-altering decisions by focusing on individual responsibility and the "leap of faith." | [View Case Study](./kierkegaard-existential-coach/)
+**Søren Kierkegaard GPT** | An existential coach designed to guide users through subjective, life-altering decisions by focusing on individual responsibility and the "leap of faith." | [Case Study Coming Soon](./kierkegaard-existential-coach/)
 
-| **Aristotle GPT** | An analytical consultant that applies classical philosophical frameworks (like the Four Causes) to dissect modern business and product development problems. | [View Case Study](./aristotle-business-analyzer/)
+| **Aristotle GPT** | An analytical consultant that applies classical philosophical frameworks (like the Four Causes) to dissect modern business and product development problems. | [Case Study Coming Soon](./aristotle-business-analyzer/)
 
-| **Marcus Aurelius GPT** | A Stoic mentor that helps users reframe challenges, cultivate emotional resilience, and practice mindfulness in the face of real-world adversity. | [View Case Study](./marcus-aurelius-stoic-mentor/)
+| **Marcus Aurelius GPT** | A Stoic mentor that helps users reframe challenges, cultivate emotional resilience, and practice mindfulness in the face of real-world adversity. | [Case Study Coming Soon](./marcus-aurelius-stoic-mentor/)
 
 ---
 
